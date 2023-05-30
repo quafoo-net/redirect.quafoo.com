@@ -1,1 +1,1 @@
-# redirect.quafoo.com
+# redirect to quafoo.net for quafoo.com
